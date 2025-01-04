@@ -1,0 +1,165 @@
+
+-----
+Test: test/test_by_product.py::test_buy_product (call)
+Start time: 2025-01-04 17:13:25.862267
+Start name method: authorization
+
+End time: 2025-01-04 17:13:27.764588
+End name method: authorization
+URL: https://store.steampowered.com/login/?redir=&redir_ssl=1&snr=1_4_4__global-header
+
+-----
+
+-----
+Test: test/test_by_product.py::test_buy_product (call)
+Start time: 2025-01-04 17:13:27.764764
+Start name method: search_product
+
+End time: 2025-01-04 17:13:31.139273
+End name method: search_product
+URL: https://store.steampowered.com/search/?snr=1_4_4__12&term=Baldur%27s+Gate+3
+
+-----
+
+-----
+Test: test/test_by_product.py::test_buy_product (call)
+Start time: 2025-01-04 17:13:31.139410
+Start name method: select_needed_element
+
+End time: 2025-01-04 17:13:47.435723
+End name method: select_needed_element
+URL: https://store.steampowered.com/app/1086940/Baldurs_Gate_3/
+
+-----
+
+-----
+Test: test/test_by_product.py::test_buy_product (call)
+Start time: 2025-01-04 17:13:47.436333
+Start name method: select_product_with_search
+
+End time: 2025-01-04 17:13:49.247364
+End name method: select_product_with_search
+URL: https://store.steampowered.com/cart
+
+-----
+
+-----
+Test: test/test_by_product.py::test_buy_product (call)
+Start time: 2025-01-04 17:13:49.247526
+Start name method: continue_pay
+
+End time: 2025-01-04 17:13:51.523521
+End name method: continue_pay
+URL: https://checkout.steampowered.com/checkout/?accountcart=1
+
+-----
+
+-----
+Test: test/test_by_product.py::test_buy_product (call)
+Start time: 2025-01-04 17:13:51.524085
+Start name method: finish_checkout
+
+End time: 2025-01-04 17:13:51.687768
+End name method: finish_checkout
+URL: https://checkout.steampowered.com/checkout/?accountcart=1
+
+-----
+
+-----
+Test: test/test_by_product.py::test_buy_product (call)
+Start time: 2025-01-04 17:13:51.687904
+Start name method: delete_all_product
+
+End time: 2025-01-04 17:13:52.764219
+End name method: delete_all_product
+URL: https://store.steampowered.com/cart
+
+-----
+
+-----
+Test: test/test_by_product.py::test_buy_product (call)
+Start time: 2025-01-04 17:13:52.764467
+Start name method: logaut
+
+End time: 2025-01-04 17:13:55.949396
+End name method: logaut
+URL: https://store.steampowered.com/
+
+-----
+
+-----
+Test: test/test_by_product.py::test_filter_of_product (call)
+Start time: 2025-01-04 17:13:57.367193
+Start name method: authorization
+
+End time: 2025-01-04 17:13:58.396236
+End name method: authorization
+URL: https://store.steampowered.com/login/?redir=&redir_ssl=1&snr=1_4_4__global-header
+
+-----
+
+-----
+Test: test/test_by_product.py::test_filter_of_product (call)
+Start time: 2025-01-04 17:13:58.396578
+Start name method: search_product_with_filter
+
+End time: 2025-01-04 17:14:16.231339
+End name method: search_product_with_filter
+URL: https://store.steampowered.com/category/adventure_rpg/?facets13268=1%3A39%2C4%3A14%2C12%3A0_5
+
+-----
+
+-----
+Test: test/test_by_product.py::test_filter_of_product (call)
+Start time: 2025-01-04 17:14:16.231712
+Start name method: select_product_with_filter
+
+End time: 2025-01-04 17:14:17.777434
+End name method: select_product_with_filter
+URL: https://store.steampowered.com/cart
+
+-----
+
+-----
+Test: test/test_by_product.py::test_filter_of_product (call)
+Start time: 2025-01-04 17:14:17.777805
+Start name method: continue_pay
+
+End time: 2025-01-04 17:14:19.121215
+End name method: continue_pay
+URL: https://checkout.steampowered.com/checkout/?accountcart=1
+
+-----
+
+-----
+Test: test/test_by_product.py::test_filter_of_product (call)
+Start time: 2025-01-04 17:14:19.121399
+Start name method: finish_checkout
+
+End time: 2025-01-04 17:14:19.312543
+End name method: finish_checkout
+URL: https://checkout.steampowered.com/checkout/?accountcart=1
+
+-----
+
+-----
+Test: test/test_by_product.py::test_filter_of_product (call)
+Start time: 2025-01-04 17:14:19.312642
+Start name method: delete_all_product
+
+End time: 2025-01-04 17:14:20.391939
+End name method: delete_all_product
+URL: https://store.steampowered.com/cart
+
+-----
+
+-----
+Test: test/test_by_product.py::test_filter_of_product (call)
+Start time: 2025-01-04 17:14:20.392146
+Start name method: logaut
+
+End time: 2025-01-04 17:14:22.837539
+End name method: logaut
+URL: https://store.steampowered.com/logout/
+
+-----
