@@ -1,0 +1,34 @@
+
+Start test
+
+Current url: https://store.steampowered.com/
+Click global action link
+
+Current url: https://store.steampowered.com/login/?redir=&redir_ssl=1&snr=1_4_661__global-header
+Input login
+Input password
+Click login button
+
+Current url: https://store.steampowered.com/login/?redir=&redir_ssl=1&snr=1_4_661__global-header
+Click genre tap
+Click hidden genre element
+Click genre filter
+Click all genre
+Click genre filter
+Click game element cart index: 2
+Click game element cart index: 2
+Current element: Divinity: Original Sin Enhanced Edition
+Product price: 69 руб
+Click continue pay button
+Current element: Divinity: Original Sin Enhanced Edition
+Current element: 69 руб
+Click finish pay button
+
+Current url: https://checkout.steampowered.com/checkout/?accountcart=1
+Current element: СПОСОБЫ ОПЛАТЫ
+Click delete product
+Click my profile button
+Click logaut button
+
+Finish test
+Exit system

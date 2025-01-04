@@ -1,0 +1,11 @@
+
+-----
+Test: test/test_by_product.py::test_filter_of_product (call)
+Start time: 2025-01-02 13:45:12.638412
+Start name method: authorization
+
+End time: 2025-01-02 13:45:14.038136
+End name method: authorization
+URL: https://store.steampowered.com/login/?redir=&redir_ssl=1&snr=1_4_661__global-header
+
+-----

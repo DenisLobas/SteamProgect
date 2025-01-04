@@ -1,0 +1,35 @@
+
+Enter system
+
+Start test
+
+Current url: https://store.steampowered.com/
+Click global action link
+
+Current url: https://store.steampowered.com/login/?redir=&redir_ssl=1&snr=1_4_661__global-header
+Input login
+Input password
+Click login button
+
+Current url: https://store.steampowered.com/login/?redir=&redir_ssl=1&snr=1_4_661__global-header
+Input search area
+Click search link
+Click product
+
+Current url: https://store.steampowered.com/app/1086940/Baldurs_Gate_3/
+Current element: Baldur's Gate 3
+Click cart button
+Current element: Baldur's Gate 3
+Product price: 1599 руб
+Click continue pay button
+Current element: Baldur's Gate 3
+Current element: 1599 руб
+Click finish pay button
+
+Current url: https://checkout.steampowered.com/checkout/?accountcart=1
+Current element: СПОСОБЫ ОПЛАТЫ
+Click delete product
+Click my profile button
+Click logaut button
+
+Finish test
