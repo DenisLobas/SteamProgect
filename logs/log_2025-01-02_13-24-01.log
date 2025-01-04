@@ -1,0 +1,11 @@
+
+-----
+Test: test/test_by_product.py::test_filter_of_product (call)
+Start time: 2025-01-02 13:24:04.836154
+Start name method: authorization
+
+End time: 2025-01-02 13:24:06.057099
+End name method: authorization
+URL: None
+
+-----

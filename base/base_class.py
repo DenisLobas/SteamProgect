@@ -29,6 +29,7 @@ class Base:
         """Метод для создания скриншотов"""
         new_data = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
         name_screenshot = f"{test} " + new_data + ".png"
+
         self.driver.save_screenshot(f"/Users/denis/Steam/screen/{name_screenshot}")
         print("Save screenshot")
 

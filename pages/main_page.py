@@ -75,7 +75,7 @@ class MainPage(Base):
     def click_dialog_slider(self, x, y):
         action = ActionChains(self.driver)
         slider = self.driver.find_element(By.XPATH, self.dialog_slider)
-        time.sleep(3)
+        time.sleep(2)
         action.click_and_hold(slider).move_by_offset(x, y).release().perform()
 
     # Actions
